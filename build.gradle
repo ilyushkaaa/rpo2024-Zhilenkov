@@ -2,21 +2,3 @@
 plugins {
 id 'com.android.application' version '8.2.2' apply false
 }
-
-defaultConfig {
-    applicationId "ru.iu3.fclient"
-    minSdkVersion 21
-    targetSdkVersion 34
-    versionCode 1
-    versionName "1.0"
-
-    testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
-    externalNativeBuild {
-        cmake {
-            cppFlags ""
-        }
-    }
-    ndk {
-        abiFilters "x86", "x86_64"
-    }
-}
