@@ -10,3 +10,4 @@
 5. [Л.Р. №5](https://github.com/ilyushkaaa/rpo2024-Zhilenkov/tree/lab5)
 6. [Л.Р. №6](https://github.com/ilyushkaaa/rpo2024-Zhilenkov/tree/lab6)
 7. [Л.Р. №7](https://github.com/ilyushkaaa/rpo2024-Zhilenkov/tree/lab7)
+8. [Л.Р. №8](https://github.com/ilyushkaaa/rpo2024-Zhilenkov/tree/lab8)
