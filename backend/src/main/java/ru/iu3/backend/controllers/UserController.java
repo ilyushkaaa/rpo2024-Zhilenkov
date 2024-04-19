@@ -60,7 +60,7 @@ public class UserController {
 
   @PutMapping("/users/{id}")
   public ResponseEntity<User> updateArtist(@PathVariable(value = "id") Long userId,
-                                           @RequestBody User userDetails) {
+                                            @RequestBody User userDetails) {
     User user;
     Optional<User>
         cc = userRepository.findById(userId);
